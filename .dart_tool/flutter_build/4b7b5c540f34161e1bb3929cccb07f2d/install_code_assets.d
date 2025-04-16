@@ -1,0 +1,1 @@
+ C:\\Users\\anime\\Flutter\ Projects\\voice_assistant\\.dart_tool\\flutter_build\\4b7b5c540f34161e1bb3929cccb07f2d\\native_assets.json: 
